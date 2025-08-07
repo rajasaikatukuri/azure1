@@ -1,0 +1,17 @@
+{
+	"name": "onprimefile",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\rajazure\\rajdf",
+			"userId": "katukuri.2000@gmail.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhYzQ5NzUwNi03MjY1LTQ0Y2EtYTQxMy1hOTkwZGJlZTA3ODMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "raj-self",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "raj1-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8308f5fa-f69b-4b02-b443-db2aa186223e",
+		"tenantId": "4b0c9c17-9201-4d98-9d1f-1434a42b0564"
+	}
+}
